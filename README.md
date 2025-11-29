@@ -32,7 +32,7 @@ I use the widely recognized **1-10 puzzle rating scale** (similar to Puzzle Mast
 
 | Puzzle Name | Rating | Model (Download) | Details/Solution |
 | :--- | :---: | :---: | :---: |
-| **H Puzzle** | 🟥 (Lvl 10) | [MakerWorld Link 🖨️](LINK AL MODELLO SU MAKERWORLD) | [Rules & Solution 💡](H_Puzzle/H_Puzzle.md) |
+| **H Puzzle** | 🟥 (Lvl 10) | [MakerWorld Link 🖨️](https://makerworld.com/en/models/2055627-h-puzzle-level-10-10) | [Rules & Solution 💡](H_Puzzle/H_Puzzle.md) |
 
 > **Where to find the information:**
 > * **Model (Download 🖨️):** Links directly to the **MakerWorld** page for downloading the print files.
