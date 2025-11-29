@@ -6,7 +6,7 @@ Unleash your spatial wit with this 10/10 brain teaser 3D puzzle. Eight solid pie
 
 Experiment, rotate, and think in three dimensions to discover the solution!
 
-👉 **[Download Makerworld Model](https://makerworld.com/en/@darionji)**
+👉 **[Download Makerworld Model](https://makerworld.com/en/models/2055627-h-puzzle-level-10-10)**
 
 ---
 
