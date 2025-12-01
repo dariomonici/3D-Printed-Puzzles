@@ -22,7 +22,3 @@ Experiment, rotate, and think in three dimensions to discover the solution!
 
 
 </details>
-
----
-
-[🔙 Main Puzzle Catalog](../Puzzle_Catalog.md)
