@@ -32,6 +32,7 @@ I use the widely recognized **1-10 puzzle rating scale** (similar to Puzzle Mast
 
 | Puzzle Name | Rating | Model (Download) | Details/Solution |
 | :--- | :---: | :---: | :---: |
+| **Cracked Egg** | 🟨 (Lvl 8) | [MakerWorld Link 🖨️](https://makerworld.com/en/models/2103119-cracked-egg-puzzle-level-8-10) | [Rules & Solution 💡](Cracked_Egg/Cracked_Egg.md) |
 | **H Puzzle** | 🟥 (Lvl 10) | [MakerWorld Link 🖨️](https://makerworld.com/en/models/2055627-h-puzzle-level-10-10) | [Rules & Solution 💡](H_Puzzle/H_Puzzle.md) |
 
 > **Where to find the information:**
